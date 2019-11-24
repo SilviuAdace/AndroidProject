@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_map">Map</string>
+    <string name="title_activity_map">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBi-XLlpkpoL6v0UmS-hxlI7WpA9ah7n9c</string>
+</resources>
